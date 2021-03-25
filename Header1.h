@@ -20,7 +20,7 @@ public:
 	float Degrees_0_360();// приведение к диапазону 0-360.
 	void Add_Degrees(float b);// Увеличение угла на заданную величину.
 	void Subtract_Degrees(float b);//Уменьшение угла на заданную величину.
-	float Get_Sin();// Получение синуса угла.
+	float Get_Sin();// Получение синуса углов.
 	bool Compare_Angles(float c);//Сравнение углов.
 };
 
