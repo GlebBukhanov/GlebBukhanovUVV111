@@ -1,0 +1,4 @@
+﻿  Project 1.2.cpp
+C:\Users\lida\Desktop\Программирование 1\Project`1\Project 1.2.h(27,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\lida\Desktop\Программирование 1\Project`1\Project 1.2.cpp(16,22): error C2664: "bool Angle::Compare(Angle &)": невозможно преобразовать аргумент 1 из "int" в "Angle &"
+C:\Users\lida\Desktop\Программирование 1\Project`1\Project 1.2.h(43,7): message : см. объявление "Angle::Compare"
